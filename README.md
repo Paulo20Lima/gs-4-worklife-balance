@@ -69,9 +69,28 @@ docker run -d --name gs4-api -p 8081:8080 gs-4-worklife-balance
 ## 🧾 Observações
 - Os **testes** e **logs** de execução dos workflows podem ser acompanhados na aba **“Actions”** do repositório GitHub.  
 - Cada etapa (**CI**, **CD** e **Versioning**) é registrada automaticamente com status de **sucesso**, **falha** ou **em execução**.
-<img width="1893" height="613" alt="image" src="https://github.com/user-attachments/assets/278c0497-8dcd-46f5-b3d6-2f794270030f" />
 
 ---
+
+## 📸 Evidências
+
+### 🧩 Versioning e CD
+<img width="1893" alt="Versioning e CD" src="https://github.com/user-attachments/assets/278c0497-8dcd-46f5-b3d6-2f794270030f" />
+
+---
+
+### 🚀 Imagem Atualizada no Docker Hub
+<img width="1562" alt="Imagem no Docker Hub" src="https://github.com/user-attachments/assets/081aa331-1e1c-428c-99c4-548baab4b1c5" />
+
+---
+
+### ⚙️ CI - Integração Contínua
+<img width="1910" alt="CI Pipeline" src="https://github.com/user-attachments/assets/8224d626-850f-487e-b9ab-f1b3108b86f0" />
+
+
+---
+
+
 
 ## 🔗 Endpoint principal
 
