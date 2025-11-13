@@ -5,7 +5,7 @@ API REST em **Spring Boot** com o objetivo de oferecer uma base para sistemas qu
 ---
 
 ## 👥 Desenvolvido por
-* **Pedro Cavariani** | RM 551380  
+* **Pedro Ruvieri Cavariani** | RM 551380  
 * **Paulo Henrique Lima** | RM 552444
 
 ---
